@@ -1,0 +1,40 @@
+.tamanio_logo {
+    height: 70px;
+    width: auto;
+}
+
+.bg-foto {
+    background-image: url(https://cdn-media.italiani.it/site-buenosaires/2019/03/Avenida-9-de-Julio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.abajo{
+    margin-right: 0px !important;
+    margin-top: 0px !important;
+}
+
+.text-big{
+    font-size: 20px;
+}
+.img-cartel {
+    width: 2000px;
+    height: 200px;
+}
+.t-foto {
+    height: 300px;
+    width: 200px;
+}
+
+.btn-green {
+    background-color: rgb(118, 209, 44) !important;
+    border: none !important;
+
+}
+/* .t-cartel img  {
+    height: 300px;
+    width: 600px !important;
+} */
+
